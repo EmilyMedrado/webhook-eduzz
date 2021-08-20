@@ -119,6 +119,7 @@ ID	| Forma de pagamento
 ----	| -----
 1 	| Boleto Bancário
 9 	| Paypal
+11 	| Desconhecido
 13 	| Visa
 14	| Amex
 15 	| Mastercard
@@ -132,6 +133,8 @@ ID	| Forma de pagamento
 24 	| Elo
 25 	| Paypal Internacional
 27 	| Múltiplos Cartões
+32 	| Pix
+
 
 ## Tabela de status de contratos
 
